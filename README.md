@@ -33,14 +33,14 @@
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" />
 </p>
 
----
+<!-- --- -->
 
 ## 🚀 Featured Projects
 
 - 🔗 [**Open Source Contributions**](https://github.com/org/repo/pull/123)  
    _Contributed features & bugfixes to community-driven projects._
 
----
+<!-- --- -->
 
 ## 📊 GitHub Stats
 
@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojova&layout=compact&theme=radical" height="170" />
 </p>
 
----
+<!-- --- -->
 
 ## 📫 Connect with Me
 
@@ -65,7 +65,7 @@
   </a> -->
 </p>
 
----
+<!-- --- -->
 
 <!-- Footer -->
 <p align="center">
