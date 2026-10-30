@@ -31,8 +31,7 @@ Computer Science Master's student at the **Karlsruhe Institute of Technology (KI
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jojova&theme=tokyonight&hide_border=true" alt="Joel's GitHub Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jojova&theme=tokyo-night&hide_border=true&area=true" alt="Joel's GitHub Activity Graph" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jojova&theme=tokyonight&hide_border=true" alt="Joel's GitHub Streak" />
 </p>
 
 ---
