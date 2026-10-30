@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joeljohnvarghese1-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joeljohnvarghese1/)
 [![Publication](https://img.shields.io/badge/Publication-Nature_HSSC-00CCBB?style=flat-square&logo=springer&logoColor=white)](https://doi.org/10.1057/s41599-025-05484-6)
 
-Computer Science Master's student at the **Karlsruhe Institute of Technology (KIT)** specializing in **Human-centred Machine Intelligence (HMI)**. B.Tech graduate from **CUSAT** ('24) and former **Software Engineer II at Visteon**, focused on scalable automotive platforms, cloud microservices, and applied generative AI systems.
+Computer Science Master's student at the **Karlsruhe Institute of Technology (KIT)** specializing in **Human-centred Machine Intelligence (HMI)**. B.Tech graduate from **CUSAT** (2024) and former **Software Engineer II at Visteon**, focused on scalable automotive platforms, cloud microservices, and applied generative AI systems.
 
 ---
 
@@ -38,9 +38,9 @@ Computer Science Master's student at the **Karlsruhe Institute of Technology (KI
 
 ### 🚀 Highlighted Projects
 
-- **[WebPage Insights](https://github.com/jojova/webpage-insights-backend)** — Multimodal NLP platform & Chrome extension powered by LangChain, FastAPI, and Hugging Face for real-time document summarization and web page interaction.
-- **[MSMErise](https://github.com/MSMErise/MSMErise-backend)** — Serverless cloud-native SME financial infrastructure built with NestJS, AWS Lambda, and DynamoDB _(2nd Place, Archathon 2023)_.
-- **[Bootstrap](https://github.com/jojova)** — QR-code-based enterprise asset-tracking platform deployed for enterprise clients in Singapore.
+- **[WebPage Insights](https://github.com/jojova/webpage-insights)** — Multimodal NLP platform & Chrome extension powered by LangChain, FastAPI, and Hugging Face for real-time document summarization and web page interaction.
+- **[MSMErise](https://github.com/jojova/MSMErise)** — Serverless cloud-native SME financial infrastructure built with NestJS, AWS Lambda, and DynamoDB _(2nd Place, Archathon 2023)_.
+- **Bootstrap** — QR-code-based enterprise asset-tracking platform deployed for enterprise clients in Singapore.
 
 ---
 
