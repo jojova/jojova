@@ -1,102 +1,60 @@
-<p align="center">
-<span>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20World!%20👋&fontSize=30&fontAlignY=35&animation=twinkling" draggable="false" />
-  </span>
-</p>
+# Hi, I'm Joel John Varghese 👋
 
-# Hi there, I'm Joel 👨‍💻
+[![Website](https://img.shields.io/badge/Portfolio-j0j0v4.web.app-0B5394?style=flat-square&logo=google-chrome&logoColor=white)](https://j0j0v4.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joeljohnvarghese1-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joeljohnvarghese1/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Publication-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://doi.org/10.1057/s41599-025-05484-6)
 
-🚀 **Full Stack Developer | 1+ year of professional experience**  
-🌱 Passionate about building scalable web apps, clean UIs, and solving real-world problems with code.  
-💡 Currently exploring **cloud-native development** and **system design**.
+Computer Science Master's student at the **Karlsruhe Institute of Technology (KIT)** specializing in **Human-centred Machine Intelligence (HMI)**. B.Tech graduate from **CUSAT** ('24) and former **Software Engineer II at Visteon**, focused on scalable automotive platforms, cloud microservices, and applied generative AI systems.
 
-<!-- --- -->
+---
 
-## ⚒️ Tech Stack & Tools
+### 🔭 Focus & Research
 
-<p align="center">
+- **Current Academics:** M.Sc. Computer Science (International) at KIT — Applied ML, Data Science, and Human-AI Interaction.
+- **Applied AI & LLMs:** Agentic workflows with LangChain/LangGraph, RAG evaluation frameworks, and cost-optimized LLMOps pipelines.
+- **Systems & Cloud:** Cloud-native microservices architecture on AWS, event-driven backends, and developer tooling.
+- **Published Research:** Co-author of _"Writing without borders: AI and cross-cultural convergence in academic writing quality"_ in _Nature Portfolio (Humanities and Social Sciences Communications)_.
 
-  <!-- Languages -->
+---
 
-<strong>Languages:</strong><br>
-<span>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" draggable="false" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" draggable="false" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" draggable="false" />
-</span>
-<br><br>
+### 🛠️ Technical Stack
 
-  <!-- Frontend -->
+**Languages & Backend**  
+`TypeScript` `JavaScript` `Python` `SQL (PostgreSQL)` `C` `NestJS` `Node.js` `FastAPI`
 
-<strong>Frontend:</strong><br>
-<span>
-<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" draggable="false" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" draggable="false" />
-</span>
-<br><br>
+**Frontend & Mobile/Web**  
+`React.js` `Next.js` `TailwindCSS` `Plasmo (Browser Extensions)`
 
-  <!-- Backend -->
+**AI & LLMOps**  
+`LangChain` `LangGraph` `AWS Bedrock` `Langfuse` `Hugging Face` `spaCy` `RAG`
 
-<strong>Backend:</strong><br>
-<span>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" draggable="false" />
-<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" draggable="false" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" draggable="false" />
-</span>
-<br><br>
+**Cloud & Infrastructure**  
+`AWS (CDK, Lambda, S3, CloudFront, RDS, DynamoDB)` `Docker` `Git` `CI/CD`
 
-  <!-- Tools -->
+---
 
-<strong>Tools:</strong><br>
-<span>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" draggable="false" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" draggable="false" />
-<img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" draggable="false" />
-</span>
-
-</p>
-
-<!-- --- -->
-
-## 🚀 Featured Projects
-
-- 🔗 [**Open Source Contributions**](https://github.com/org/repo/pull/123)  
-   _Contributed features & bugfixes to community-driven projects._
-
-<!-- --- -->
-
-## 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-<span>
-  <img src="https://github-readme-stats.vercel.app/api?username=jojova&show_icons=true&theme=radical" height="170" draggable="false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojova&layout=compact&theme=radical" height="170" draggable="false" />
-  </span>
+  <img src="https://github-readme-stats.vercel.app/api?username=jojova&show_icons=true&theme=tokyonight&hide_border=true" alt="Joel's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jojova&theme=tokyonight&hide_border=true" alt="Joel's GitHub Streak" height="150" />
 </p>
-
-<!-- --- -->
-
-## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joeljohnvarghese1/" target="_blank">
-  <span>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" draggable="false" />
-    </span>
-  </a>
-  <!-- <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" draggable="false" />
-  </a> -->
-  <!-- <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" draggable="false" />
-  </a> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojova&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="135" />
 </p>
 
-<!-- --- -->
+---
 
-<!-- Footer -->
-<p align="center">
-<span>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" draggable="false"/>
-  </span>
-</p>
+### 🚀 Highlighted Projects
+
+- **[WebPage Insights](https://github.com/jojova/webpage-insights-backend)** — Multimodal NLP platform & Chrome extension powered by LangChain, FastAPI, and Hugging Face for real-time document summarization and web page interaction.
+- **[MSMErise](https://github.com/MSMErise/MSMErise-backend)** — Serverless cloud-native SME financial infrastructure built with NestJS, AWS Lambda, and DynamoDB _(2nd Place, Archathon 2023)_.
+- **[Bootstrap](https://github.com/jojova)** — QR-code-based enterprise asset-tracking platform deployed for enterprise clients in Singapore.
+
+---
+
+### 📫 Connect With Me
+
+- 🌐 **Portfolio:** [j0j0v4.web.app](https://j0j0v4.web.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/joeljohnvarghese1](https://www.linkedin.com/in/joeljohnvarghese1/)
